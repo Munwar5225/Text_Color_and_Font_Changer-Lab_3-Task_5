@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Color Changer</string>
+    <string name="type_here">Type here..</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="loc">LOC</string>
+    <string name="change_color">Change color</string>
+</resources>
